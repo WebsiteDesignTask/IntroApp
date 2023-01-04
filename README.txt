@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-\IntroApp\app\application_walkthrough.gif
+https://i.imgur.com/zE5fy68.gif
 
 
 Tool used: LICEcap
