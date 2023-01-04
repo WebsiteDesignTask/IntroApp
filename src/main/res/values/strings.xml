@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntroApp</string>
+    <string name="button">Click Me</string>
+    <string name="intro_text">My name is Samreth Nith\nI am a student at Thomas Edison State University\nI enjoy coding and staying creative\nI am excited to learn more about Android App developmenet</string>
+    <string name="todo">TODO</string>
+    <string name="clicked_text">Welcome to my first application!</string>
+</resources>
